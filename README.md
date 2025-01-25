@@ -1,13 +1,13 @@
 # Local Turístico: Conheça Busan
 
-<!-- ![preview](./.github/preview.png) -->
+![preview](./assets/preview.png)
 
 > Formação Full-Stack: Iniciando o HTML e CSS (desafio prático)
 
 O projeto é uma simples página de turismo que exibe três destinos imperdíveis em Busan, Coreia do Sul.
 
 
-<!-- [🔗 Clique aqui para acessar](link para o github pages) -->
+[🔗 Clique aqui para acessar](https://natanjalmeida99.github.io/tourist-place/)
 
 
 ## 🛠️ Tecnologias
